@@ -1,0 +1,8 @@
+
+[2025-10-31 09:38:48] INFO - ======System Information started =======
+[2025-10-31 09:38:48] INFO - 2025-10-31 09:38:48
+[2025-10-31 09:38:48] INFO - System Monitoring(Hostename: zobdebian, OS and version: Linux 6.1.0-40-amd64)CPU(Arachitecture: x86_64, Frequence: 3800.0, Number of logical cpu: 8)
+[2025-10-31 09:38:48] INFO - Command executed {'cpu': True, 'mem': False, 'disk': False, 'all': False}
+[2025-10-31 09:38:49] INFO - System info: CPU: 1.6%
+[2025-10-31 09:38:49] INFO - Sysinfo executed successfully.
+
