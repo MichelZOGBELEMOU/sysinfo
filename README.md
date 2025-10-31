@@ -47,7 +47,7 @@ sysinfo/
 
 ## 🚀 Quick start (Debian 12)
 ```bash
-# 1. git clone https://github.com/<MichelZOGBELEMOU>/sysinfo.git
+# 1. git clone https://github.com/MichelZOGBELEMOU/sysinfo.git
 cd sysinfo
 
 # 2. create a virtual environment
